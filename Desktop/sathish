@@ -1,0 +1,222 @@
+commands and discription:
+
+alias:
+	Aliases are one of the most time-saving devices known to man. An alias is a way to make a complicated command or set of commands simple.														
+unalias:
+	remove the alias
+arch:
+	find sysytem architecture
+arp:
+	The network interface and each host the system is reaching through that interface and its physical address is listed.
+at:
+	executed at a later time
+awk:
+	Find and Replace text, database sort/validate/index
+bc:
+	Arbitrary precision calculator language 
+blkid:
+	The blkid program is the command-line interface to working with the  library.
+cal:
+	 Display a calendar
+cat:
+	view the file content
+cd:
+	 Change Directory
+chage:
+	change user password
+chattr:
+	Change file attributes on a Linux file system 
+chgrp:
+	Change group ownership
+chmod:
+	Change access permissions
+chown:
+	Change file owner and group
+cp:
+	Copy one or more files to another location
+cpio:
+	 Copy files to and from archives
+crontab:
+	 Schedule a command to run at a later time
+curl:
+	Transfer data  from or to a server
+cut:
+	Divide a file into several parts
+date:
+	display the current date
+dd:
+	Data Duplicator - convert and copy a file, write disk headers, boot records	
+df:
+	  Display free disk space		
+diff:
+	Display the differences between two files
+dig:
+	DNS lookup
+dnf:
+	package instalation
+du:
+	 Estimate file space usage
+expr:
+	Evaluate expressions
+fdisk:
+	Partition table manipulator for Linux
+file:
+	Determine file type
+find:
+	Search for files that meet a desired criteria
+firewall-cmd:
+	firewall-cmd is the command line client of the firewalld daemon. It provides interface to
+       manage runtime and permanent configuration.
+free:
+	 Display memory usage
+ftp:
+	File Transfer Protocol
+grep:
+	Search file(s) for lines that match a given pattern
+head:
+	 Output the first part of file(s)
+history:
+	display the history
+hostname:
+	 Print or set system name
+id:
+	Print user and group id's
+ifconfig:
+	Configure a network interface
+iostat:
+	Report CPU and i/o statistics
+ip:
+	 Routing, devices and tunnels
+kill:
+	 Kill a process by specifying its PID
+last:
+	Last searches back through the file /var/log/wtmp and  displays  a list of all users logged in  since that file was created.
+lessandmore:
+	Similar to more, less command allows you to view the contents of a file and navigate through file.
+ln:
+	 The ln command by default creates hard links, and when called with the command line parameter ln -s creates symbolic links.
+locate:
+	Find files
+lpstatandlpadmin:
+	
+ls:	
+	 List information about file(s)
+lsof:
+	 List open files
+lspci:
+	List all PCI devices
+mail:
+	send mail
+man;
+	Help manual
+mdadm:
+	RAID devices are virtual devices created from two or more real block devices.  This allows
+       multiple devices to  be  combined  into  a
+       single  device  to  hold  a  single  filesystem.  
+mkdirandrmdir:
+	create directory and remove directory	
+mkisofs:
+	 Create an hybrid ISO9660/JOLIET/HFS filesystem
+mount:
+	Mount a file system
+mutt:
+	Mutt is a command line based Email client. It's a very useful and powerful tool to send and read mails from command line in Unix based systems.
+nano:
+	GNU nano is a popular command line text editor that is included in most Linux distributions.
+netstat:
+	 Networking connections/stats
+nice:
+	  Set the priority of a command or job
+renice:
+	remove nice
+nslookup:
+	Query Internet name servers interactively
+passwd:
+	Modify a user password
+pam_tally2:
+	The former is the PAM module and the latter, a stand-alone program. pam_tally2 is an application which can be used to interrogate and manipulate the counter file.
+paste:
+	Merge lines of files
+ping:
+	 Test a network connection
+perloneliner:
+	Perl-one liners are powertools that get a lot of work done with a single command. 
+pkill:
+	 Kill processes by name
+ps:
+	Process status
+pwd:
+	 Print Working Directory
+reboot:
+	reboot the system
+poweroff:
+	poweroff the system
+rm:
+	remove the file or dirctory
+rpm:
+	RPM  is an default open source and most popular package management utility for Red Hat based systems like
+rsync:
+	Synchronize remote files via email
+scp:
+	 Secure copy (remote file copy)
+screen:
+	Multiplex terminal, run remote shells via ssh
+sed:
+	Stream Editor
+sort:
+	Sort text files
+ss:
+	 Socket Statistics
+ssh:
+	Secure Shell client
+sysctl:
+	sysctl is used to modify kernel parameters at runtime.
+tail:
+	Output the last part of file
+tar:
+	Store, list or extract files in an archive
+tcpdump:
+	tcpdump is a most powerful and widely used command-line packets sniffer or package analyzer tool 
+top:
+	List processes running on the system
+touch:
+	Change file timestamps
+tr:
+	 Translate, squeeze, and/or delete characters
+traceroute:
+	Trace Route to Host
+umask:
+	Users file creation mask
+uname:
+	Print system information
+uniq:
+	Uniquify files
+uptime:
+	Show uptime
+useradd:
+	 Create new user account
+vi:
+	  Text Editor
+vmstat:
+	Report virtual memory statistics
+w:
+	 Show who is logged on and what they are doing
+who:
+	 Print all usernames currently logged in
+watch:
+	Execute/display a program periodically
+wc:
+	 Print byte, word, and line counts
+wget:
+	Retrieve web pages or files via HTTP, HTTPS or FTP
+ypcat:
+	When a client machine or application requests a machine name or address, the NIS server refers to the hosts.
+yppasswd:
+	On Unix-like operating systems, the yppasswd command changes a network password in the NIS database.
+yum:
+	It allows users and system administrator to easily install, update, remove or search software packages on a systems.
+zip:
+	 Package and compress files
+sar:
+	SAR stands for System Activity Report, as its name suggest sar command is used to collect,report & save CPU, Memory, I/O usage in Unix like operating system.
+
